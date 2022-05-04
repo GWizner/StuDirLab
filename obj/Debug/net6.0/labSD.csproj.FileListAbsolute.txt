@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\labSD\bin\Debug\net6.0\labSD.exe
+C:\Users\Gregory Wizner\source\repos\labSD\bin\Debug\net6.0\labSD.deps.json
+C:\Users\Gregory Wizner\source\repos\labSD\bin\Debug\net6.0\labSD.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\labSD\bin\Debug\net6.0\labSD.dll
+C:\Users\Gregory Wizner\source\repos\labSD\bin\Debug\net6.0\labSD.pdb
+C:\Users\Gregory Wizner\source\repos\labSD\obj\Debug\net6.0\labSD.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\labSD\obj\Debug\net6.0\labSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\labSD\obj\Debug\net6.0\labSD.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\labSD\obj\Debug\net6.0\labSD.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\labSD\obj\Debug\net6.0\labSD.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\labSD\obj\Debug\net6.0\labSD.dll
+C:\Users\Gregory Wizner\source\repos\labSD\obj\Debug\net6.0\refint\labSD.dll
+C:\Users\Gregory Wizner\source\repos\labSD\obj\Debug\net6.0\labSD.pdb
+C:\Users\Gregory Wizner\source\repos\labSD\obj\Debug\net6.0\labSD.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\labSD\obj\Debug\net6.0\ref\labSD.dll
